@@ -30,13 +30,13 @@ interactive quiz to reinforce learning.
 ## 📚 Topics Covered
 
 1. **Introduction to Phishing** — Definition and importance
-2. **How Phishing Works** — Anatomy of an attack
-3. **Types of Phishing Attacks** — Email, Spear Phishing, Whaling, Smishing, Vishing
+2. **How Phishing Works** — The phishing lifecycle
+3. **Types of Phishing Attacks** — Email, Spear Phishing, Whaling, Smishing, Vishing, Clone
 4. **Red Flags in Phishing Emails** — Urgency, spelling errors, mismatched addresses
-5. **Recognizing Fake Websites** — Domain names, security indicators, design clues
-6. **Social Engineering Tactics** — Impersonation, urgency, fear, authority
-7. **Real-World Examples** — Case studies of successful attacks
-8. **Best Practices** — Verification, MFA, safe browsing habits
+5. **Recognizing Fake Websites** — Domain names, HTTPS, design clues
+6. **Social Engineering Tactics** — Impersonation, urgency, fear, authority, curiosity, greed, trust
+7. **Real-World Examples** — Google/Facebook $100M scam case study
+8. **Best Practices** — The 8 Golden Rules for digital defense
 9. **Incident Response** — What to do if you click a phishing link
 
 ---
@@ -46,6 +46,12 @@ interactive quiz to reinforce learning.
 Test your knowledge with the phishing awareness quiz:
 
 👉 **[Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLScPH7qkV3avK3nG01T_ZTePn1AmfakRqjjV0VlpyKAP54at8w/viewform)**
+
+The quiz covers:
+- What phishing is
+- Red flags in emails and websites
+- Social engineering tactics
+- Best practices and incident response
 
 ---
 
@@ -64,18 +70,19 @@ Test your knowledge with the phishing awareness quiz:
 
 ## 📁 Files
 
-- `Phishing_Awareness_Training.pdf` — Full presentation
+- `Phishing_Awareness_Training.pdf` — Full presentation (11 slides)
 - `screenshots/` — Preview images of key slides
 
 ---
 
-## 🔍 What I Learned
+## 🔍 Key Takeaways
 
-- How phishing attacks exploit human psychology
-- Different phishing vectors (email, SMS, voice, social media)
-- Practical techniques to verify links and senders
-- The importance of MFA in preventing credential theft
-- How to create effective security awareness content
+- Attackers exploit human emotions like urgency, fear, and trust
+- HTTPS does not guarantee a website is safe
+- Always verify the sender's full email address
+- Hover over links to preview the real URL before clicking
+- Enable Multi-Factor Authentication (MFA) everywhere
+- Report suspicious emails to IT/security immediately
 
 ---
 
